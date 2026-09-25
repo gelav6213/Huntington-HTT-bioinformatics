@@ -90,6 +90,9 @@ d. Based on its location and ClinVar information, briefly explain how the varian
 e. What additional evidence would be needed before concluding that the variant causes disease?
 - Additional evidence would include functional studies to determine whether the variant affects the Huntingtin protein’s function. Family studies could show whether the variant is consistently inherited with Huntington’s disease. Population data could also show whether the variant is absent or very rare in healthy individuals.
 
+## Interpretation
+
+The activity showed how the HTT gene can be examined from its genomic location and structure to a specific clinically reported variant using UCSC and ClinVar. The selected variant, NM_001388492.1(HTT):c.122C>A (p.Pro41Gln), is located in a coding exon and changes one amino acid in the Huntingtin protein, but ClinVar reports it as having uncertain significance. Therefore, its location and predicted protein change provide useful information, but additional functional, family, and population evidence is needed to better understand whether the variant contributes to Huntington disease.
 
 ## PART G — Reflection
 
@@ -105,3 +108,7 @@ e. What additional evidence would be needed before concluding that the variant c
 4. What was the most interesting feature you observed about your assigned gene?
 - The most interesting feature I observed was that the HTT gene has 67 exons and multiple transcripts or isoforms. I also noticed that its introns were generally much longer than its exons. Another interesting observation was that some regions of the gene were more conserved than others. I also found a clinically reported variant located within a coding exon of the HTT gene.
 
+## References and links:
+https://www.ncbi.nlm.nih.gov/clinvar/variation/2350932/
+
+https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr4%3A3074947%2D3074947&hgsid=4176065055_Am59uYvWEfU3OkagnXi63OjjYjbQ
